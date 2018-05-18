@@ -1,0 +1,49 @@
+/* * {
+    background: #ff1493;
+} */
+
+/* .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.box {
+    display: flex;
+    background: white;
+    width: 50px;
+    height: 100px;
+  } */
+
+.container {
+    background: white;
+}
+
+button {
+    background: #ff69b4;
+}
+
+#boxy {
+    background: #eee;
+}
+
+body {
+    background: linear-gradient(to right, #f857a6, #ff5858);
+}
+
+.btn {
+    background: white;
+    border-radius: 5px;
+}
+
+.delBtn {
+    background-color: transparent;
+}
+
+.ToDO {
+    width: 50%;
+}
+
+.add {
+    width: 50%;
+}
